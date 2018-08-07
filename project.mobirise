@@ -43,7 +43,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "html_before": "<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\r\n<script>\r\n     (adsbygoogle = window.adsbygoogle || []).push({\r\n          google_ad_client: \"ca-pub-4547666117702333\",\r\n          enable_page_level_ads: true\r\n     });\r\n</script>",
-    "headbody": "",
+    "headbody": "<amp-auto-ads type=\"adsense\"\r\n              data-ad-client=\"ca-pub-4547666117702333\">\r\n</amp-auto-ads>",
     "botbody": "",
     "cookiesAlert": "",
     "gdpr": "",
